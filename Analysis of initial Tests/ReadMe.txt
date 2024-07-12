@@ -1,3 +1,0 @@
-These are The results from the first initial tests all copied into word and analyzed from the first steps of data exploration all the way to the steps of bias mitigation.
-The word documents are quite long since they contain all outputs and outcomes. I tried to structure them as best as i could with headers and formating.
-They are more of a way to see how we analyzed and understood certain results and what conclusions we drew from them
