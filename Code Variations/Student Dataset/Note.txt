@@ -1,0 +1,5 @@
+For some reason the code and results behave different between vsc and jupyter notebook, i tried to fix it and figure out why this happens
+but i could not fully recreate it to make them perform identical. This only happens for the notebook where i tried to work with filtered data (For the target Variable limited to G3 with G1-2 filtered out) for the failure feature
+
+The issue here is that the failures_bin column only has one unique value after binning, which means all the metrics are calculated for a single group. This results in zero differences for all fairness metrics and a lack of group comparisons.
+But i don t know why that happens exactly.
