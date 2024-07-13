@@ -1,6 +1,6 @@
 Link to Github repository: https://github.com/ClemensThrakl-git/Bias-Mitigation-and-Fairness-Group9
-Link to Crime Dataset: https://archive.ics.uci.edu/ml/machine-learning-databases/communities/communities.data
-Link to Student Dataset: https://archive.ics.uci.edu/dataset/211/communities+and+crime+unnormalized
+Link to Crime Dataset: https://archive.ics.uci.edu/dataset/211/communities+and+crime+unnormalized
+Link to Student Dataset: https://archive.ics.uci.edu/dataset/320/student+performance
 
 
 For the Fairlearn Notebooks always when opening them just run all cells, they are ment to be executed in the corresponding order that the cells are put in. 
