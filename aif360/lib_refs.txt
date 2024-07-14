@@ -1,0 +1,52 @@
+Aif360:
+
+ Bellamy, R. K., et al (2019). AI Fairness 360: An extensible toolkit
+	 for detecting and mitigating algorithmic bias. IBM Journal of Research and Development, 63(4/5), 4-1
+
+Matplotlib:
+
+J. D. Hunter, "Matplotlib: A 2D Graphics Environment", Computing in Science & 
+	Engineering, vol. 9, no. 3, pp. 90-95, 2007.
+
+Seaborn:
+
+Waskom, M. L., (2021). seaborn: statistical data visualization. 
+	Journal of Open Source Software, 6(60), 3021, https://doi.org/10.21105/joss.03021.
+
+Scikit:
+
+Scikit-learn: Machine Learning in Python, Pedregosa et al., JMLR 12, pp. 2825-2830, 2011.
+API design for machine learning software: experiences from the scikit-learn project, Buitinck et al., 2013.
+
+Pandas:
+
+McKinney, W. (2010, June). Data structures for statistical computing in Python. 
+	In SciPy (Vol. 445, No. 1, pp. 51-56).
+
+Numpy:
+
+Harris, C.R., Millman, K.J., van der Walt, S.J. et al. Array programming with NumPy. 
+	Nature 585, 357–362 (2020). DOI: 10.1038/s41586-020-2649-2. 
+
+Ucimlrepo:
+
+Markelle Kelly, Rachel Longjohn, Kolby Nottingham (2024).
+The UCI Machine Learning Repository, https://archive.ics.uci.edu
+
+Tensorflow:
+
+Martín Abadi, Ashish Agarwal, Paul Barham, Eugene Brevdo,
+Zhifeng Chen, Craig Citro, Greg S. Corrado, Andy Davis,
+Jeffrey Dean, Matthieu Devin, Sanjay Ghemawat, Ian Goodfellow,
+Andrew Harp, Geoffrey Irving, Michael Isard, Rafal Jozefowicz, Yangqing Jia,
+Lukasz Kaiser, Manjunath Kudlur, Josh Levenberg, Dan Mané, Mike Schuster,
+Rajat Monga, Sherry Moore, Derek Murray, Chris Olah, Jonathon Shlens,
+Benoit Steiner, Ilya Sutskever, Kunal Talwar, Paul Tucker,
+Vincent Vanhoucke, Vijay Vasudevan, Fernanda Viégas,
+Oriol Vinyals, Pete Warden, Martin Wattenberg, Martin Wicke,
+Yuan Yu, and Xiaoqiang Zheng.
+TensorFlow: Large-scale machine learning on heterogeneous systems,
+2015. Software available from tensorflow.org.
+
+
+
